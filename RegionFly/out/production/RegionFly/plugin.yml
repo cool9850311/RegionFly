@@ -1,0 +1,13 @@
+name: RegionFly
+main: RegionFly
+version: 0.0.1
+permissions:
+  regionfly.*:
+    description: "Allow all for op"
+    default: op
+
+  regionfly.rf:
+    description: "Allow Region Fly"
+
+  regionfly.bypass.loginlimit:
+    description: "Bypass login limit"
